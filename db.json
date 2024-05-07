@@ -1,10 +1,12 @@
 {
     "Personagens": [
         {
+           "id": "id1",
           "Nome": "Goku",
           "descricao1": "a"
         },
        {
+           "id": "id2",
          "Nome": "Vegeta",
           "descricao2": "a"
         }
